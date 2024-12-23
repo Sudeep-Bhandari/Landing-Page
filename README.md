@@ -1,11 +1,11 @@
 # Interactive Landing Page - README
 
-Welcome to the Interactive Landing Page project! This project is a beautifully designed, highly interactive landing page built using HTML, CSS, and JavaScript. The landing page is designed to capture user attention and provide a seamless, engaging experience.
+Welcome to the Interactive Landing Page project! This project is a beautifully designed, highly interactive landing page built using HTML and CSS. The landing page is designed to capture user attention and provide a seamless, engaging experience.
 
 # Features
 
     Responsive Design: The landing page is fully responsive and looks great on all devices, from desktops to mobile phones.
-    Smooth Animations: Eye-catching animations created using CSS and JavaScript to enhance user engagement.
+    Smooth Animations: Eye-catching animations created using CSS to enhance user engagement.
     Interactive Elements: Includes interactive elements such as buttons, forms, and hover effects.
     Modern Aesthetics: Clean, modern design with a focus on user experience and visual appeal.
 
@@ -37,7 +37,6 @@ To use or customize the landing page, you can modify the HTML, CSS, and JavaScri
 
     index.html: The main HTML file that structures the landing page.
     styles.css: The CSS file that contains all the styles and animations.
-    scripts.js: The JavaScript file that adds interactivity to the page.
 
 # Contributing
 
