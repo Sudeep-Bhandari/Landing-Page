@@ -4,10 +4,10 @@ Welcome to the Interactive Landing Page project! This project is a beautifully d
 
 # Features
 
-    Responsive Design: The landing page is fully responsive and looks great on all devices, from desktops to mobile phones.
-    Smooth Animations: Eye-catching animations created using CSS to enhance user engagement.
-    Interactive Elements: Includes interactive elements such as buttons, forms, and hover effects.
-    Modern Aesthetics: Clean, modern design with a focus on user experience and visual appeal.
+1. Responsive Design: The landing page is fully responsive and looks great on all devices, from desktops to mobile phones.
+2. Smooth Animations: Eye-catching animations created using CSS to enhance user engagement.
+3. Interactive Elements: Includes interactive elements such as buttons, forms, and hover effects.
+4. Modern Aesthetics: Clean, modern design with a focus on user experience and visual appeal.
 
 # Installation
 
