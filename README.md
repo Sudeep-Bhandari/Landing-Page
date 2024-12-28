@@ -12,22 +12,14 @@ Welcome to the Interactive Landing Page project! This project is a beautifully d
 # Installation
 
  ## To set up this project locally, follow these steps:
-
-    Clone the repository:
-
-    bash
+Clone the repository:
 
     git clone https://github.com/Sudeep-Bhandari/landing_page.git
 
  ## Navigate to the project directory:
-
-   bash
-
-  cd interactive-landing-page
+    cd interactive-landing-page
 
  ## Open the index.html file in your browser to view the landing page:
-
-   bash
 
     open index.html
 
