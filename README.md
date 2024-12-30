@@ -20,15 +20,14 @@ Clone the repository:
     cd interactive-landing-page
 
  ## Open the index.html file in your browser to view the landing page:
-
     open index.html
 
 # Usage
 
 To use or customize the landing page, you can modify the HTML, CSS, and JavaScript files according to your needs. Here are the key files and their purposes:
 
-    index.html: The main HTML file that structures the landing page.
-    styles.css: The CSS file that contains all the styles and animations.
+ 1. index.html: The main HTML file that structures the landing page.
+ 2. styles.css: The CSS file that contains all the styles and animations.
 
 # Contributing
 
@@ -43,6 +42,6 @@ To use or customize the landing page, you can modify the HTML, CSS, and JavaScri
 
 # License
 
- This project is licensed under the MIT License.
+ This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
 
 ## Thank you for using and contributing to the Interactive Landing Page project!
