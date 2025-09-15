@@ -2,6 +2,11 @@
 
 Welcome to the Interactive Landing Page project! This project is a beautifully designed, highly interactive landing page built using HTML and CSS. The landing page is designed to capture user attention and provide a seamless, engaging experience.
 
+##  Live Demo
+[Try it Live](https://sudeep-bhandari.github.io/Landing-Page/)
+
+---
+
 # Features
 
 1. Responsive Design: The landing page is fully responsive and looks great on all devices, from desktops to mobile phones.
